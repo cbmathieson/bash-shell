@@ -21,8 +21,6 @@ cd [dir] // changes working directory, if 'dir' is omiited, goes to HOME
 ```shell
 exit // exits shell
 ```
-^C will kill child processes
+^C will kill child processes\
 ^D will exit
 
-
-# bash-shell
